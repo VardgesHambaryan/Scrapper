@@ -1,0 +1,515 @@
+[
+    {
+        "name": "Birkenstock Arizona Slide Sandal - Women's",
+        "brand": "Birkenstock",
+        "gender": [
+            "Women"
+        ],
+        "colors": {
+            "Black": [
+                "https://images.dsw.com/is/image/DSWShoes/171995_001_ss_02",
+                "https://images.dsw.com/is/image/DSWShoes/171995_001_ss_01",
+                "https://images.dsw.com/is/image/DSWShoes/171995_001_ss_04",
+                "https://images.dsw.com/is/image/DSWShoes/171995_001_ss_06",
+                "https://images.dsw.com/is/image/DSWShoes/171995_001_ss_05",
+                "https://images.dsw.com/is/image/DSWShoes/171995_001_ss_03",
+                "https://images.dsw.com/is/image/DSWShoes/171995_001_ss_07"
+            ],
+            "Gold Metallic": [
+                "https://images.dsw.com/is/image/DSWShoes/171995_750_ss_04",
+                "https://images.dsw.com/is/image/DSWShoes/171995_750_ss_02",
+                "https://images.dsw.com/is/image/DSWShoes/171995_750_ss_06",
+                "https://images.dsw.com/is/image/DSWShoes/171995_750_ss_01",
+                "https://images.dsw.com/is/image/DSWShoes/171995_750_ss_05",
+                "https://images.dsw.com/is/image/DSWShoes/171995_750_ss_03",
+                "https://images.dsw.com/is/image/DSWShoes/171995_750_ss_07"
+            ],
+            "Mocha": [
+                "https://images.dsw.com/is/image/DSWShoes/171995_200_ss_01"
+            ],
+            "Stone": [
+                "https://images.dsw.com/is/image/DSWShoes/171995_250_ss_01",
+                "https://images.dsw.com/is/image/DSWShoes/171995_250_ss_04",
+                "https://images.dsw.com/is/image/DSWShoes/171995_250_ss_02",
+                "https://images.dsw.com/is/image/DSWShoes/171995_250_ss_03",
+                "https://images.dsw.com/is/image/DSWShoes/171995_250_ss_06",
+                "https://images.dsw.com/is/image/DSWShoes/171995_250_ss_05",
+                "https://images.dsw.com/is/image/DSWShoes/171995_250_ss_07",
+                "https://images.dsw.com/is/image/DSWShoes/171995_250_ss_08",
+                "https://images.dsw.com/is/image/DSWShoes/171995_250_ss_09"
+            ],
+            "White": [
+                "https://images.dsw.com/is/image/DSWShoes/171995_100_ss_06",
+                "https://images.dsw.com/is/image/DSWShoes/171995_100_ss_03",
+                "https://images.dsw.com/is/image/DSWShoes/171995_100_ss_04",
+                "https://images.dsw.com/is/image/DSWShoes/171995_100_ss_01",
+                "https://images.dsw.com/is/image/DSWShoes/171995_100_ss_05",
+                "https://images.dsw.com/is/image/DSWShoes/171995_100_ss_02",
+                "https://images.dsw.com/is/image/DSWShoes/171995_100_ss_07",
+                "https://images.dsw.com/is/image/DSWShoes/171995_100_ss_08",
+                "https://images.dsw.com/is/image/DSWShoes/171995_100_ss_09"
+            ]
+        },
+        "price": 109.96,
+        "price_min": 109.96,
+        "price_max": 109.96,
+        "discount_percentage": 0,
+        "stock_quantity": 22515,
+        "product_id": "171995",
+        "sku": "58000000004744211000000N008.0",
+        "sizes": [
+            {
+                "size": "EU 42 / US Womens 11-11.5 / Mens 9-9.5",
+                "color": "Green Camouflage",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "822698140116"
+            },
+            {
+                "size": "EU 41 / US Womens 10-10.5 / Mens 8-8.5",
+                "color": "Green Camouflage",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "822698140086"
+            },
+            {
+                "size": "EU 40 / US Womens 9-9.5 / Mens 7-7.5",
+                "color": "Green Camouflage",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "822698140055"
+            },
+            {
+                "size": "EU 39 / US Womens 8-8.5 / Mens 6-6.5",
+                "color": "Green Camouflage",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "822698140024"
+            },
+            {
+                "size": "EU 38 / US Womens 7-7.5 / Mens 5-5.5",
+                "color": "Green Camouflage",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "822698139998"
+            },
+            {
+                "size": "EU 37 / US Womens 6-6.5 / Mens 4-4.5",
+                "color": "Green Camouflage",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "822698139967"
+            },
+            {
+                "size": "EU 36 / US Womens 5-5.5 / Mens 3-3.5",
+                "color": "Green Camouflage",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "822698139936"
+            },
+            {
+                "size": "EU 42 / US Womens 11-11.5 / Mens 9-9.5",
+                "color": "White",
+                "skuStockLevel": 902,
+                "dimension": "Medium",
+                "upc": "886454234761"
+            },
+            {
+                "size": "EU 41 / US Womens 10-10.5 / Mens 8-8.5",
+                "color": "White",
+                "skuStockLevel": 1239,
+                "dimension": "Medium",
+                "upc": "886454234754"
+            },
+            {
+                "size": "EU 40 / US Womens 9-9.5 / Mens 7-7.5",
+                "color": "White",
+                "skuStockLevel": 851,
+                "dimension": "Medium",
+                "upc": "886454234747"
+            },
+            {
+                "size": "EU 39 / US Womens 8-8.5 / Mens 6-6.5",
+                "color": "White",
+                "skuStockLevel": 836,
+                "dimension": "Medium",
+                "upc": "886454234730"
+            },
+            {
+                "size": "EU 38 / US Womens 7-7.5 / Mens 5-5.5",
+                "color": "White",
+                "skuStockLevel": 695,
+                "dimension": "Medium",
+                "upc": "886454234723"
+            },
+            {
+                "size": "EU 37 / US Womens 6-6.5 / Mens 4-4.5",
+                "color": "White",
+                "skuStockLevel": 454,
+                "dimension": "Medium",
+                "upc": "886454234716"
+            },
+            {
+                "size": "EU 36 / US Womens 5-5.5 / Mens 3-3.5",
+                "color": "White",
+                "skuStockLevel": 370,
+                "dimension": "Medium",
+                "upc": "886454234709"
+            },
+            {
+                "size": "EU 42 / US Womens 11-11.5 / Mens 9-9.5",
+                "color": "Pewter",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "886925216005"
+            },
+            {
+                "size": "EU 41 / US Womens 10-10.5 / Mens 8-8.5",
+                "color": "Pewter",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "886925215992"
+            },
+            {
+                "size": "EU 40 / US Womens 9-9.5 / Mens 7-7.5",
+                "color": "Pewter",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "886925215985"
+            },
+            {
+                "size": "EU 39 / US Womens 8-8.5 / Mens 6-6.5",
+                "color": "Pewter",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "886925215978"
+            },
+            {
+                "size": "EU 38 / US Womens 7-7.5 / Mens 5-5.5",
+                "color": "Pewter",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "886925215961"
+            },
+            {
+                "size": "EU 37 / US Womens 6-6.5 / Mens 4-4.5",
+                "color": "Pewter",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "886925215954"
+            },
+            {
+                "size": "EU 36 / US Womens 5-5.5 / Mens 3-3.5",
+                "color": "Pewter",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "886925215947"
+            },
+            {
+                "size": "EU 40 / US Womens 9-9.5 / Mens 7-7.5",
+                "color": "Black",
+                "skuStockLevel": 1256,
+                "dimension": "Medium",
+                "upc": "736399073393"
+            },
+            {
+                "size": "EU 39 / US Womens 8-8.5 / Mens 6-6.5",
+                "color": "Black",
+                "skuStockLevel": 1142,
+                "dimension": "Medium",
+                "upc": "736399009644"
+            },
+            {
+                "size": "EU 38 / US Womens 7-7.5 / Mens 5-5.5",
+                "color": "Black",
+                "skuStockLevel": 827,
+                "dimension": "Medium",
+                "upc": "736399072709"
+            },
+            {
+                "size": "EU 37 / US Womens 6-6.5 / Mens 4-4.5",
+                "color": "Black",
+                "skuStockLevel": 651,
+                "dimension": "Medium",
+                "upc": "736399064278"
+            },
+            {
+                "size": "EU 36 / US Womens 5-5.5 / Mens 3-3.5",
+                "color": "Black",
+                "skuStockLevel": 508,
+                "dimension": "Medium",
+                "upc": "736399059878"
+            },
+            {
+                "size": "EU 43 / US Womens 12-12.5 / Mens 10-10.5",
+                "color": "Black",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "736399035025"
+            },
+            {
+                "size": "EU 42 / US Womens 11-11.5 / Mens 9-9.5",
+                "color": "Black",
+                "skuStockLevel": 829,
+                "dimension": "Medium",
+                "upc": "736399045208"
+            },
+            {
+                "size": "EU 41 / US Womens 10-10.5 / Mens 8-8.5",
+                "color": "Black",
+                "skuStockLevel": 900,
+                "dimension": "Medium",
+                "upc": "736399010527"
+            },
+            {
+                "size": "EU 42 / US Womens 11-11.5 / Mens 9-9.5",
+                "color": "Gold Metallic",
+                "skuStockLevel": 276,
+                "dimension": "Medium",
+                "upc": "802436956100"
+            },
+            {
+                "size": "EU 41 / US Womens 10-10.5 / Mens 8-8.5",
+                "color": "Gold Metallic",
+                "skuStockLevel": 142,
+                "dimension": "Medium",
+                "upc": "802436956070"
+            },
+            {
+                "size": "EU 40 / US Womens 9-9.5 / Mens 7-7.5",
+                "color": "Gold Metallic",
+                "skuStockLevel": 180,
+                "dimension": "Medium",
+                "upc": "802436956049"
+            },
+            {
+                "size": "EU 39 / US Womens 8-8.5 / Mens 6-6.5",
+                "color": "Gold Metallic",
+                "skuStockLevel": 343,
+                "dimension": "Medium",
+                "upc": "802436956018"
+            },
+            {
+                "size": "EU 38 / US Womens 7-7.5 / Mens 5-5.5",
+                "color": "Gold Metallic",
+                "skuStockLevel": 451,
+                "dimension": "Medium",
+                "upc": "802436955981"
+            },
+            {
+                "size": "EU 37 / US Womens 6-6.5 / Mens 4-4.5",
+                "color": "Gold Metallic",
+                "skuStockLevel": 318,
+                "dimension": "Medium",
+                "upc": "802436955950"
+            },
+            {
+                "size": "EU 36 / US Womens 5-5.5 / Mens 3-3.5",
+                "color": "Gold Metallic",
+                "skuStockLevel": 396,
+                "dimension": "Medium",
+                "upc": "802436955929"
+            },
+            {
+                "size": "EU 42 / US Womens 11-11.5 / Mens 9-9.5",
+                "color": "Red",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "822698828250"
+            },
+            {
+                "size": "EU 41 / US Womens 10-10.5 / Mens 8-8.5",
+                "color": "Red",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "822698828229"
+            },
+            {
+                "size": "EU 40 / US Womens 9-9.5 / Mens 7-7.5",
+                "color": "Red",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "822698828199"
+            },
+            {
+                "size": "EU 39 / US Womens 8-8.5 / Mens 6-6.5",
+                "color": "Red",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "822698828168"
+            },
+            {
+                "size": "EU 38 / US Womens 7-7.5 / Mens 5-5.5",
+                "color": "Red",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "822698828137"
+            },
+            {
+                "size": "EU 37 / US Womens 6-6.5 / Mens 4-4.5",
+                "color": "Red",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "822698828106"
+            },
+            {
+                "size": "EU 36 / US Womens 5-5.5 / Mens 3-3.5",
+                "color": "Red",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "822698828076"
+            },
+            {
+                "size": "EU 35 / US Womens 4-4.5 / Mens 2-2.5",
+                "color": "Black",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "736399057959"
+            },
+            {
+                "size": "EU 44 / US Womens 13-13.5 / Mens 11-11.5",
+                "color": "Mocha",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "809410059352"
+            },
+            {
+                "size": "EU 35 / US Womens 4-4.5 / Mens 2-2.5",
+                "color": "Mocha",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "809410059260"
+            },
+            {
+                "size": "EU 40 / US Womens 9-9.5 / Mens 7-7.5",
+                "color": "Stone",
+                "skuStockLevel": 674,
+                "dimension": "Medium",
+                "upc": "736399745016"
+            },
+            {
+                "size": "EU 39 / US Womens 8-8.5 / Mens 6-6.5",
+                "color": "Stone",
+                "skuStockLevel": 745,
+                "dimension": "Medium",
+                "upc": "736399745009"
+            },
+            {
+                "size": "EU 38 / US Womens 7-7.5 / Mens 5-5.5",
+                "color": "Stone",
+                "skuStockLevel": 1554,
+                "dimension": "Medium",
+                "upc": "736399744996"
+            },
+            {
+                "size": "EU 37 / US Womens 6-6.5 / Mens 4-4.5",
+                "color": "Stone",
+                "skuStockLevel": 677,
+                "dimension": "Medium",
+                "upc": "736399744989"
+            },
+            {
+                "size": "EU 36 / US Womens 5-5.5 / Mens 3-3.5",
+                "color": "Stone",
+                "skuStockLevel": 528,
+                "dimension": "Medium",
+                "upc": "736399744972"
+            },
+            {
+                "size": "EU 35 / US Womens 4-4.5 / Mens 2-2.5",
+                "color": "Stone",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "736399744965"
+            },
+            {
+                "size": "EU 44 / US Womens 13-13.5 / Mens 11-11.5",
+                "color": "Stone",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "736399745054"
+            },
+            {
+                "size": "EU 43 / US Womens 12-12.5 / Mens 10-10.5",
+                "color": "Stone",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "736399745047"
+            },
+            {
+                "size": "EU 42 / US Womens 11-11.5 / Mens 9-9.5",
+                "color": "Stone",
+                "skuStockLevel": 701,
+                "dimension": "Medium",
+                "upc": "736399745030"
+            },
+            {
+                "size": "EU 41 / US Womens 10-10.5 / Mens 8-8.5",
+                "color": "Stone",
+                "skuStockLevel": 1079,
+                "dimension": "Medium",
+                "upc": "736399745023"
+            },
+            {
+                "size": "EU 43 / US Womens 12-12.5 / Mens 10-10.5",
+                "color": "Mocha",
+                "skuStockLevel": 0,
+                "dimension": "Medium",
+                "upc": "809410059345"
+            },
+            {
+                "size": "EU 36 / US Womens 5-5.5 / Mens 3-3.5",
+                "color": "Mocha",
+                "skuStockLevel": 481,
+                "dimension": "Medium",
+                "upc": "809410059277"
+            },
+            {
+                "size": "EU 37 / US Womens 6-6.5 / Mens 4-4.5",
+                "color": "Mocha",
+                "skuStockLevel": 290,
+                "dimension": "Medium",
+                "upc": "809410059284"
+            },
+            {
+                "size": "EU 38 / US Womens 7-7.5 / Mens 5-5.5",
+                "color": "Mocha",
+                "skuStockLevel": 323,
+                "dimension": "Medium",
+                "upc": "809410059291"
+            },
+            {
+                "size": "EU 39 / US Womens 8-8.5 / Mens 6-6.5",
+                "color": "Mocha",
+                "skuStockLevel": 353,
+                "dimension": "Medium",
+                "upc": "809410059307"
+            },
+            {
+                "size": "EU 40 / US Womens 9-9.5 / Mens 7-7.5",
+                "color": "Mocha",
+                "skuStockLevel": 579,
+                "dimension": "Medium",
+                "upc": "809410059314"
+            },
+            {
+                "size": "EU 41 / US Womens 10-10.5 / Mens 8-8.5",
+                "color": "Mocha",
+                "skuStockLevel": 407,
+                "dimension": "Medium",
+                "upc": "809410059321"
+            },
+            {
+                "size": "EU 42 / US Womens 11-11.5 / Mens 9-9.5",
+                "color": "Mocha",
+                "skuStockLevel": 475,
+                "dimension": "Medium",
+                "upc": "809410059338"
+            }
+        ],
+        "CreateDate": "2024-07/07 20:40:00",
+        "PulledDate": "2024-07/07 20:40:00",
+        "ItemStateID": 0,
+        "NeedsMarketUpdate": 0
+    }
+]

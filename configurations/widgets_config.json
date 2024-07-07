@@ -1,0 +1,314 @@
+{
+    "content": {
+        "facets": {
+            "include_product_count": true,
+            "keys": {
+                "brand": {
+                    "include_product_count": true,
+                    "max_results": 1000,
+                    "sort": {
+                        "order": "asc",
+                        "type": "text_case_insensitive"
+                    }
+                },
+                "category_tree": {
+                    "hierarchy_depth": 4,
+                    "hierarchy_level": 2,
+                    "max_results": 100,
+                    "sort": {
+                        "order": "asc",
+                        "type": "text"
+                    }
+                },
+                "color_family": {
+                    "include_product_count": true,
+                    "max_results": 20,
+                    "sort": {
+                        "order": "asc",
+                        "type": "text"
+                    }
+                },
+                "dimension": {
+                    "include_product_count": true,
+                    "max_results": 10,
+                    "sort": {
+                        "order": "asc",
+                        "type": "dimension"
+                    }
+                },
+                "discount": {
+                    "include_product_count": true,
+                    "max_results": 10
+                },
+                "discount_label": {
+                    "include_product_count": true,
+                    "max_results": 10
+                },
+                "features": {
+                    "include_product_count": true,
+                    "max_results": 100,
+                    "sort": {
+                        "order": "asc",
+                        "type": "text"
+                    }
+                },
+                "filter_size": {
+                    "include_product_count": true,
+                    "max_results": 100,
+                    "sort": {
+                        "order": "asc",
+                        "type": "size"
+                    }
+                },
+                "gender": {
+                    "include_product_count": true,
+                    "max_results": 10,
+                    "sort": {
+                        "order": "asc",
+                        "type": "gender"
+                    }
+                },
+                "heel_height": {
+                    "include_product_count": true,
+                    "max_results": 10,
+                    "sort": {
+                        "order": "asc",
+                        "type": "heel_height"
+                    }
+                },
+                "item_type": {
+                    "include_product_count": true,
+                    "max_results": 100,
+                    "sort": {
+                        "order": "asc",
+                        "type": "text"
+                    }
+                },
+                "materials": {
+                    "include_product_count": true,
+                    "max_results": 100
+                },
+                "occasion": {
+                    "include_product_count": true,
+                    "max_results": 100,
+                    "sort": {
+                        "order": "asc",
+                        "type": "text"
+                    }
+                },
+                "price": {
+                    "include_product_count": true
+                },
+                "price_label": {
+                    "include_product_count": true,
+                    "max_results": 10
+                },
+                "shaft_height": {
+                    "include_product_count": true,
+                    "max_results": 10,
+                    "sort": {
+                        "order": "asc",
+                        "type": "shaft_height"
+                    }
+                },
+                "special_attributes": {
+                    "include_product_count": true,
+                    "max_results": 100,
+                    "sort": {
+                        "order": "asc",
+                        "type": "text"
+                    }
+                },
+                "style": {
+                    "include_product_count": true,
+                    "max_results": 200,
+                    "sort": {
+                        "order": "asc",
+                        "type": "text"
+                    }
+                },
+                "toe_shape": {
+                    "include_product_count": true,
+                    "max_results": 10,
+                    "sort": {
+                        "order": "asc",
+                        "type": "toe_shape"
+                    }
+                },
+                "trends": {
+                    "include_product_count": true,
+                    "include_total_count": true,
+                    "max_results": 100,
+                    "sort": {
+                        "order": "asc",
+                        "type": "text"
+                    }
+                }
+            }
+        },
+        "products": {
+            "fields": [
+                "id",
+                "name",
+                "category_list",
+                "gender",
+                "brand",
+                "default_sku",
+                "default_color_code",
+                "color_code",
+                "release_date",
+                "color_code_list",
+                "color_list",
+                "web_type",
+                "is_image_animated",
+                "is_any_clearance",
+                "is_show_price_in_cart",
+                "review_rating",
+                "review_count",
+                "price_min",
+                "price_max",
+                "clearance_price_min",
+                "clearance_price_max",
+                "msrp_list",
+                "stock_quantity",
+                "is_brand_logo_card_available",
+                "is_brand_logo_tile_available",
+                "price",
+                "clearance_price",
+                "fulfillment_mode",
+                "badges",
+                "is_drop_ship_none",
+                "message_content_id"
+            ],
+            "page_number": 1,
+            "page_size": 100
+        }
+    },
+    "context": {
+        "campaign": {},
+        "device": {
+            "app_type": "browser",
+            "app_version": "2.0.0",
+            "device_type": "desktop",
+            "geo_country_code": "AM",
+            "geo_dma_code": null,
+            "geo_region_code": null,
+            "geo_timezone_code": ""
+        },
+        "page": {
+            "referrer": ""
+        },
+        "user": {
+            "atg_profile_id": "20138950214",
+            "segments": [
+                "top_rated_product_badge_plps_us:variation"
+            ]
+        }
+    },
+    "include_matched_context": {
+        "visitor_context": [
+            "profile_segment"
+        ]
+    },
+    "widgets": [
+        {
+            "content": {
+                "products": {}
+            },
+            "id": "list_products",
+            "parameters": {
+                "copy_format": "html"
+            },
+            "type": "search"
+        },
+        {
+            "content": {
+                "products": {}
+            },
+            "id": "content_funnel",
+            "type": "content"
+        },
+        {
+            "content": {
+                "products": {}
+            },
+            "id": "content_feature",
+            "parameters": {
+                "copy_format": "html"
+            },
+            "type": "content"
+        },
+        {
+            "content": {
+                "products": {}
+            },
+            "id": "content_editorial",
+            "type": "content"
+        },
+        {
+            "content": {
+                "products": {}
+            },
+            "id": "content_copy",
+            "parameters": {
+                "copy_format": "html"
+            },
+            "type": "content"
+        },
+        {
+            "content": {
+                "products": {}
+            },
+            "id": "content_seo",
+            "type": "content"
+        },
+        {
+            "content": {
+                "products": {
+                    "page_number": 1,
+                    "page_size": 20
+                }
+            },
+            "id": "recs_plp_*",
+            "parameters": {
+                "copy_format": "html"
+            },
+            "type": "recommendations"
+        },
+        {
+            "content": {
+                "products": {}
+            },
+            "id": "content_ugc",
+            "type": "content"
+        },
+        {
+            "content": {
+                "products": {}
+            },
+            "id": "content_product_messaging",
+            "type": "content"
+        },
+        {
+            "content": {
+                "products": {}
+            },
+            "id": "content_site_banner",
+            "type": "content"
+        },
+        {
+            "content": {
+                "products": {}
+            },
+            "id": "content_custom_breadcrumbs",
+            "type": "content"
+        },
+        {
+            "content": {
+                "products": {}
+            },
+            "id": "content_header",
+            "type": "content"
+        }
+    ]
+}

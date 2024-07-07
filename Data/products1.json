@@ -1,0 +1,73 @@
+[
+    {
+        "id": "171995",
+        "name": "Arizona Slide Sandal - Women's",
+        "category_list": [
+            "Sandals",
+            "Casual Sandals",
+            "Flat Sandals",
+            "Slide Sandals",
+            "Gifts"
+        ],
+        "gender": [
+            "Women"
+        ],
+        "brand": [
+            "Birkenstock"
+        ],
+        "default_sku": "58000000003070382000000N007.0",
+        "stock_quantity": 22515,
+        "default_color_code": "100",
+        "color_code_list": [
+            "001",
+            "750",
+            "200",
+            "250",
+            "100"
+        ],
+        "color_list": [
+            "Black",
+            "Gold Metallic",
+            "Mocha",
+            "Stone",
+            "White"
+        ],
+        "color_and_code_list": [
+            "Black-001",
+            "Gold Metallic-750",
+            "Mocha-200",
+            "Stone-250",
+            "White-100"
+        ],
+        "web_type": "Shoe",
+        "is_any_clearance": false,
+        "is_show_price_in_cart": false,
+        "review_rating": 4.6121,
+        "review_count": 1467,
+        "price_min": 109.96,
+        "price_max": 109.96,
+        "clearance_price_min": 109.96,
+        "clearance_price_max": 109.96,
+        "msrp_list": [
+            110
+        ],
+        "compare_at_msrp": false,
+        "sku": "58000000004744211000000N008.0",
+        "color_code": "100",
+        "release_date": "2016-11-22T00:00:00.000Z",
+        "price": 109.96,
+        "clearance_price": 109.96,
+        "is_drop_ship_all": false,
+        "is_drop_ship_none": true,
+        "badges": [
+            "best_seller",
+            "top_rated"
+        ],
+        "discount_percentage": 0,
+        "message_content_id": [
+            "content_product_messaging-20",
+            "content_product_messaging-22",
+            "content_product_messaging-433"
+        ]
+    }
+]
